@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("uwu");
+        int i = 1;
+        while (i<694) {
+            System.out.println(i);
+            i*=2;
+        }
     }
 }
